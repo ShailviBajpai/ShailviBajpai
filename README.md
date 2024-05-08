@@ -1,3 +1,4 @@
+![logo](https://github.com/ShailviBajpai/ShailviBajpai/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shailvi Bajpai</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
