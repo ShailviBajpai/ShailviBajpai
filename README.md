@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailvibajpai&label=Profile%20views&color=0e75b6&style=flat" alt="shailvibajpai" /> </p>
 
-- 🌱 I’m currently working on **Full Stack Development**
+- 🌱 I’m currently working on **Full Stack Development and learning new technologies**
 
 - 💬 Ask me about **React, Javascript, Java**
 
