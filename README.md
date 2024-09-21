@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **Full Stack Development and learning new technologies**
 
-- - 💬 **Talk Business and Product to me**
+- 💬 **Talk Business and Product to me**
 
 - 💬 Ask me about **React, Javascript, Java**
 
