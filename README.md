@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently working on **Full Stack Development and learning new technologies**
 
-- 💬 **Talk Business and Product to me**
+- 💬 **"From code to product strategy" or
+       "Bridging tech and business innovation"**
 
 - 💬 Ask me about **React, Javascript, Java**
 
